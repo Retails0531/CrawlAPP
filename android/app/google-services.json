@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "325856690386",
+    "project_id": "getapi-d395c",
+    "storage_bucket": "getapi-d395c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325856690386:android:a6e0c3de4969816e17ed0b",
+        "android_client_info": {
+          "package_name": "com.mycompany.getapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325856690386-2ruqscramam4er2p1fh175igrpsn8dgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.getapi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "325856690386-2kmkmnjg436ujocq1lte81ji4s1g2qgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WYxZ9DRsR1muHaZaBa2lKppQiRGHlJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325856690386-2kmkmnjg436ujocq1lte81ji4s1g2qgj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325856690386-b0gnrhhdv06sgem4penliafth7ga32c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.getapi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
